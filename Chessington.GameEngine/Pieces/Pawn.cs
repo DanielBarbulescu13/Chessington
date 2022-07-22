@@ -71,6 +71,5 @@ namespace Chessington.GameEngine.Pieces
             return moves;
         }
 
-
     }
 }
